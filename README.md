@@ -58,7 +58,7 @@ Create a composer.json file in your project root:
 
     {
         "require": {
-            "codeguy/upload": "*"
+            "wengooooo/easyswoole-upload": "*"
         }
     }
 
