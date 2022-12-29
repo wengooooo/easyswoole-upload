@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Handle file uploads with extensible validation and storage strategies",
     "keywords": ["upload", "validation", "file"],
-    "homepage": "http://github.com/wengooooo/easyswoole-upload",
+    "homepage": "https://github.com/wengooooo/easyswoole-upload",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
